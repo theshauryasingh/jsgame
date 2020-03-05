@@ -1,0 +1,28 @@
+{
+  "name": "jsgame",
+  "version": "1.0.0",
+  "description": "js game",
+  "main": "0",
+  "scripts": {
+    "test": "0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theshauryasingh/jsgame.git"
+  },
+  "keywords": [
+    "game",
+    "js",
+    "node"
+  ],
+  "author": "theshauryasingh",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/theshauryasingh/jsgame/issues"
+  },
+  "homepage": "https://github.com/theshauryasingh/jsgame#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
